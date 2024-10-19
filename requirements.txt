@@ -99,7 +99,7 @@ requests-oauthlib==2.0.0
 rich==13.8.1
 schedule==1.2.2
 scikit-learn==1.5.1
-scipy==1.14.0
+scipy==1.11.3
 seaborn==0.13.2
 setuptools==74.1.2
 shellingham==1.5.4
